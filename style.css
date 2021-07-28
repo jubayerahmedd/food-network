@@ -9,6 +9,9 @@ section{
 .top-left{
     padding-top: 90px;
 }
+.top-img{
+    padding-top: 40px;
+}
 
 .half-width{
     width: 40%;
@@ -21,8 +24,16 @@ h1{
     font-size: 45px;
     color: dimgray;
 }
+h2{
+    font-weight: 700;
+    font-size: 35px;
+    color: dimgray;
+
+}
+
 p{
     color: dimgray;
+    padding-bottom: 30px;
 }
 .skip{
     color: orangered;
@@ -37,8 +48,10 @@ p{
     border-radius: 7px;
     font-weight: 700;
     color: white;
+    
 }
 .middle{
+    margin-top: 25px;
     background-image: url("images/shapes/7.png");
     background-repeat: no-repeat;
     padding-bottom: 40px;
@@ -47,7 +60,33 @@ p{
 .middle img{
     width: 60%;
     padding-left: 5%;
+    padding-top: 15px;
 }
 .mid-right{
     padding-top: 90px;
+}
+.middle p{
+    padding-bottom: 80px;
+}
+.third{
+    margin-top: 80px;
+}
+.third-text{
+    text-align: center;
+    color: dimgray;
+}
+
+.third-box{
+    width: 25%;
+    float: left;
+    margin-left: 6%;
+    padding-left: 7px;
+    padding-top: 10px;
+    box-shadow: 5px 7px 40px gray ;
+    height: 100%;
+    border-radius: 30px;
+}
+.third-box img{
+    width: 95%;
+    padding-left: 5px;
 }

@@ -83,7 +83,7 @@ p{
     padding-left: 7px;
     padding-top: 10px;
     box-shadow: 5px 7px 40px gray ;
-    height: 95%;
+    height: 93%;
     border-radius: 30px;
 }
 .third-box img{
@@ -91,6 +91,28 @@ p{
     padding-left: 5px;
 }
 
+.fourth{
+    margin-left: 5%;
+    width: 90%;
+    margin-bottom: -300px;
+}
+.fourth-extra{
+    margin-top: 140px;
+    box-shadow: 5px 7px 40px gray;
+    border-radius: 30px;
+    height: 40%;
+
+}
+    
+.extra-left{
+    width: 20%;
+    float: left;
+    margin-left: 6%;
+    padding-left: 70px;
+}
+.extra-left h1{
+    color: black;
+}
 
 
 
@@ -104,9 +126,9 @@ p{
     color: deeppink;
 }
 footer{
-    margin-top: 130px;
+    margin-top: px;
     background-color: black;
     text-align: center;
-    height: 180px;
+    height: 250px;
     padding-top: 50px;
 }
